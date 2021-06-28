@@ -11,7 +11,7 @@
   <img aling="center" alt="Gisele-linkedin" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
 </a>
 <a href="https://www.instagram.com/xl_silvestre/" target="-blank">
-  <img aling="center" alt="Gisele-linkedin" height="30" width="30" src="https://i.pinimg.com/564x/ed/34/e9/ed34e9e48c3151264b34a39c6aef124f.jpg">
+  <img aling="center" alt="Gisele-instagram" height="30" width="30" src="https://i.pinimg.com/564x/ed/34/e9/ed34e9e48c3151264b34a39c6aef124f.jpg">
 </a>
 
 ## Minhas habilidades
